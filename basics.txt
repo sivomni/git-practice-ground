@@ -1,2 +1,3 @@
 Line 1: Git is awesome! 
 Line 2: Learning Git commands! 
+line 3: Practice Makes Perfect! 
