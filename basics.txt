@@ -1,1 +1,2 @@
 Line 1: Git is awesome! 
+Line 2: Learning Git commands! 
